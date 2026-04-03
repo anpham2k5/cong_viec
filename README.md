@@ -11,7 +11,7 @@
 - 2 miếng PCB đặt song song như 2 bản tụ và 1 lớp điện môi đàn hồi.
 - Lớp điện môi đàn hồi, dễ nén khi chịu lực, cho phép khoảng cách giữa hai bản cực thay đổi theo lực tác động.
 #### b. Nguyên lí điện dung
-Khi có lực tác động, lớp điện môi đàn hồi sẽ biến dạng làm cho 2 bản tụ gần nhau hơn khiến điện dung tăng. 
+- Khi có lực tác động, lớp điện môi đàn hồi sẽ biến dạng làm cho 2 bản tụ gần nhau hơn khiến điện dung tăng. 
 $$
 C = \frac{\varepsilon S}{d}
 $$
