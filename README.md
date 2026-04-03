@@ -4,4 +4,5 @@
 - Thực hành các thí nghiệm đo dữ liệu cảm biến
 - Nghiên cứu cảm biến xúc giác từ tính
 ## B. Khó Khăn
-### C. Báo cáo chi tiết
+- Tính lực bằng neural network
+## C. Báo cáo chi tiết
